@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Qué Pasaría...",
+  "base_artist": "Rauw Alejandro & Bad Bunny",
+  "createdAt": "2026-02-20T16:12:37.323939Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Qué Pasaría",
+      "artist": "Pedro Capó",
+      "has_synced": true,
+      "path": "select/01_Qué_Pasaría_Pedro_Capó.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "¿Qué Pasaría? - Primera Fila Acústico \"Una Última Vez - Encore\"",
+      "artist": "Sin Bandera",
+      "has_synced": true,
+      "path": "select/02_¿Qué_Pasaría__-_Primera_Fila_Acústico__Una_Última_Vez_-_Encore_Sin_Bandera.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "¿Qué Pasaría?  (Primera Fila Acústico \"Una Última Vez - Encore\")",
+      "artist": "Sin Bandera",
+      "has_synced": true,
+      "path": "select/03_¿Qué_Pasaría__(Primera_Fila_Acústico__Una_Última_Vez_-_Encore_)_Sin_Bandera.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "¿Qué Pasaría?",
+      "artist": "Ik4rus feat. Sayian Jimmy & Edu Yevenes",
+      "has_synced": true,
+      "path": "select/04_¿Qué_Pasaría_Ik4rus_feat._Sayian_Jimmy_&_Edu_Yevenes.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "¿Qué Pasaría?",
+      "artist": "Ik4rus/Sayian Jimmy/Edu Yevenes",
+      "has_synced": true,
+      "path": "select/05_¿Qué_Pasaría_Ik4rus_Sayian_Jimmy_Edu_Yevenes.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dime Que Pasaria",
+      "artist": "Sayian Jimmy feat. Nickoog Clk, Standly & Carlitos Klein",
+      "has_synced": true,
+      "path": "select/06_Dime_Que_Pasaria_Sayian_Jimmy_feat._Nickoog_Clk,_Standly_&_Carlitos_Klein.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dime Que Pasaria",
+      "artist": "Sayian Jimmy/Nickoog Clk/Standly/Carlitos Klein",
+      "has_synced": true,
+      "path": "select/07_Dime_Que_Pasaria_Sayian_Jimmy_Nickoog_Clk_Standly_Carlitos_Klein.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Que Pasaría",
+      "artist": "VADHIR",
+      "has_synced": true,
+      "path": "select/08_Que_Pasaría_VADHIR.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "¿Qué Pasaría?",
+      "artist": "Sin Bandera",
+      "has_synced": true,
+      "path": "select/09_¿Qué_Pasaría_Sin_Bandera.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "¿Qué Pasaría?",
+      "artist": "Jacobo Ramos",
+      "has_synced": true,
+      "path": "select/10_¿Qué_Pasaría_Jacobo_Ramos.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "¿Qué Pasaría?",
+      "artist": "Alex Ponce",
+      "has_synced": false,
+      "path": "select/11_¿Qué_Pasaría_Alex_Ponce.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dime Que Pasaria",
+      "artist": "Andresito Otro Corte",
+      "has_synced": false,
+      "path": "select/12_Dime_Que_Pasaria_Andresito_Otro_Corte.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Qué Pasaría?",
+      "artist": "Sote",
+      "has_synced": true,
+      "path": "select/13_Qué_Pasaría_Sote.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dime Que Pasaria",
+      "artist": "Sayian Jimmy",
+      "has_synced": true,
+      "path": "select/14_Dime_Que_Pasaria_Sayian_Jimmy.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "¿Qué pasaría?",
+      "artist": "Pedro Capó",
+      "has_synced": true,
+      "path": "select/15_¿Qué_pasaría_Pedro_Capó.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "(Qué Pasaría) Si Mi Chica Se Llamara Shakira",
+      "artist": "El Chojin",
+      "has_synced": true,
+      "path": "select/16_(Qué_Pasaría)_Si_Mi_Chica_Se_Llamara_Shakira_El_Chojin.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Dime Que Pasaria",
+      "artist": "Z Jocker",
+      "has_synced": true,
+      "path": "select/17_Dime_Que_Pasaria_Z_Jocker.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Que Pasaria",
+      "artist": "Erick Andrade",
+      "has_synced": false,
+      "path": "select/18_Que_Pasaria_Erick_Andrade.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Que Pasaria",
+      "artist": "Jayma & Dalex",
+      "has_synced": false,
+      "path": "select/19_Que_Pasaria_Jayma_&_Dalex.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Qué Pasaría...",
+      "artist": "Rauw Alejandro",
+      "has_synced": true,
+      "path": "select/20_Qué_Pasaría..._Rauw_Alejandro.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Qué Pasaría...",
+      "artist": "Rauw Alejandro & Bad Bunny",
+      "has_synced": false,
+      "path": "select/pl_01_Qué_Pasaría..._Rauw_Alejandro_&_Bad_Bunny.txt"
+    }
+  ]
+}
